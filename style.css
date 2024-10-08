@@ -1,3 +1,28 @@
-.fancy-layout{
-    background-color: hotpink;
+p {
+    font-family: "Comic Sans MS";
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-style: italic;
+    color: #7836af;
+    background-color: #121010;
+    max-width: 20%;
+    border-radius: 15%;
+    border: 12px #611212 ridge;
+}
+.button-styling{
+    background-color: white;
+    color: blue;
+    border-color: blue;
+    height: 36px;
+    width: 62px;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+
+    margin-right: 8px;
+
+}
+.button-styling:hover{
+    background-color: #101112;
 }
